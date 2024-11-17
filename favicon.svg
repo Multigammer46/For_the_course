@@ -1,5 +1,5 @@
 <!-- sample rectangle -->
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <rect width="100" height="100" x="0" y="0" rx="25" ry="25" fill="gold" />
-   <image height="70" width="70" x="15" y="15" src="C:\Users\12PC\Desktop\Quiz time!\CalligraphicQ.svg" />
+  <image height="70" width="70" x="15" y="15" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Calligraphic_Q.svg"/>
 </svg>
